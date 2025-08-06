@@ -1,0 +1,59 @@
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.fontLigatures": false,
+    "css.validate": false,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.semi": true,
+    "prettier.trailingComma": "es5",
+    "prettier.printWidth": 90,
+    "prettier.tabWidth": 2,
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontVariations": false,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontSize": 14,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.guides.bracketPairs": true,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.colorTheme": "Tokyo Night Gogh",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "kilo-code.allowedCommands": [
+        "npm test",
+        "npm install",
+        "tsc",
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "kilo-code.deniedCommands": [],
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community"
+}

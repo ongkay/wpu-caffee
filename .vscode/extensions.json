@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "wallabyjs.console-ninja",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "heybourn.headwind",
+    "visualstudioexptteam.vscodeintellicode",
+    "zignd.html-css-class-completion",
+    "xabikos.javascriptsnippets",
+    "ms-vscode.vscode-typescript-next",
+    "zhuangtongfa.material-theme",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "meganrogge.template-string-converter",
+    "tal7aouy.theme",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
