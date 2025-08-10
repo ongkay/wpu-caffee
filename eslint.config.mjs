@@ -17,6 +17,7 @@ eslintConfig.push({
     'react/jsx-key': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
     '@typescript-eslint/no-unused-vars': 'off',
+    'eslint-disable-next-line prefer-const': 'on',
   },
 });
 
