@@ -26,4 +26,4 @@ create table public.orders_menus (
   primary key (id)
 );
 
-alter table public.orders_menus enable row level
+alter table public.orders_menus enable row level security;
